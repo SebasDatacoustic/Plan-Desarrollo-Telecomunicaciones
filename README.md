@@ -31,3 +31,7 @@ Basados en los resultados de las muestras de datos extraídas, en el cuál se pl
 
 -	**Área financiera:** El objetivo para esta área es concluir que tan atractivo es el mercado Argentino en tecnología de telecomunicaciones revisando márgenes de ganancia y si su tendencia es al alza en el tiempo.
 
+### Anàlisis
+-Infraestructura de telecomunicaciones: Argentina cuenta con una infraestructura en constante desarrollo, con una creciente cobertura y una adopción significativa de tecnologías. Sin embargo, algunas regiones remotas pueden tener una conectividad limitada.
+-Demanda y penetración del mercado: Argentina tiene una alta penetración de internet, un gran porcentaje de la población con acceso a la web.
+
